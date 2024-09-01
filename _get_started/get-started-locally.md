@@ -7,7 +7,7 @@ body-class: get-started
 order: 1
 published: true
 get-started-locally: true
-redirect_from: "/get-started/"
+redirect_from: "/get-started/" 
 ---
 
 ## 직접 설치하기
